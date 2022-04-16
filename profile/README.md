@@ -13,6 +13,6 @@ Vennt also has an Extra Entry feature, that gives a certain role an x amount of 
 
 And several general-purpose commands, such as: End Giveaway, Reroll Giveaway, Edit Giveaway, etc.
 
-[Support Server](https://discord.gg/mjuZHYt4z4)
-[Invite Vennt](https://discord.com/api/oauth2/authorize?client_id=722400387583311893&permissions=8&scope=applications.commands%20bot)
+[Support Server](https://discord.gg/mjuZHYt4z4) |
+[Invite Vennt](https://discord.com/api/oauth2/authorize?client_id=722400387583311893&permissions=8&scope=applications.commands%20bot) |
 [Vote on Top.gg](https://top.gg/bot/722400387583311893)
